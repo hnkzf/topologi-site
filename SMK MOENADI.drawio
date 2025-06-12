@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Halaman-1" id="ZWikzCEQHy2WKAv0dDQ_">
-    <mxGraphModel dx="821" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="698" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VRBAC_2ObA0FO26ys0ne-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="530" y="490" width="20" height="20" as="geometry" />
+          <mxGeometry x="495" y="490" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VRBAC_2ObA0FO26ys0ne-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="70" y="450" width="20" height="20" as="geometry" />
