@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Page-1" id="ddht3bscKwh4LZZuZZTl">
+    <mxGraphModel dx="658" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ApSWO47698_w1Fj-0ZIG-1" target="ApSWO47698_w1Fj-0ZIG-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-1" value="Modem Nexa" style="fontColor=light-dark(#000000,#000000);verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=light-dark(#000000,#000000);gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" parent="1" vertex="1">
+          <mxGeometry x="80" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-6" value="ether2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ApSWO47698_w1Fj-0ZIG-2" target="ApSWO47698_w1Fj-0ZIG-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-2" value="RB750Gr3" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=top;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=light-dark(#000000,#000000);labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-3" value="Switch Ruijie&lt;div&gt;16 Port&lt;/div&gt;" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-7" value="AP Office" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" parent="1" vertex="1">
+          <mxGeometry x="180" y="240" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-8" value="AP Bar" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" parent="1" vertex="1">
+          <mxGeometry x="280" y="240" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-16" value="AP Lorong" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" parent="1" vertex="1">
+          <mxGeometry x="373.4" y="250" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-18" value="ether3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ApSWO47698_w1Fj-0ZIG-2" target="ApSWO47698_w1Fj-0ZIG-7" edge="1">
+          <mxGeometry x="0.25" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="200" />
+              <mxPoint x="200" y="200" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ApSWO47698_w1Fj-0ZIG-2" target="ApSWO47698_w1Fj-0ZIG-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="190" />
+              <mxPoint x="300" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-22" value="ether5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ApSWO47698_w1Fj-0ZIG-19" vertex="1" connectable="0">
+          <mxGeometry x="0.5821" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ApSWO47698_w1Fj-0ZIG-2" target="ApSWO47698_w1Fj-0ZIG-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="180" />
+              <mxPoint x="391" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApSWO47698_w1Fj-0ZIG-21" value="ether4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ApSWO47698_w1Fj-0ZIG-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.2145" y="1" relative="1" as="geometry">
+            <mxPoint x="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
