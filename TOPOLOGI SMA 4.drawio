@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="CYhsAUisatGGiz7ftvMk">
-    <mxGraphModel dx="1316" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5oJINNUdnDELqN7D2WPO-45" value="eth2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CiXPGSn55u4qK1HpeIrX-18">
+          <mxGeometry x="-0.8416" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CiXPGSn55u4qK1HpeIrX-19" value="Switch&amp;nbsp;&lt;div&gt;Kelas 11&lt;/div&gt;" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="440" y="280" width="60" height="60" as="geometry" />
         </mxCell>
@@ -100,6 +105,11 @@
             <Array as="points">
               <mxPoint x="470" y="80" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oJINNUdnDELqN7D2WPO-46" value="eth8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CiXPGSn55u4qK1HpeIrX-20">
+          <mxGeometry x="-0.5734" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CiXPGSn55u4qK1HpeIrX-21" value="Switch Aruba&lt;div&gt;Server&lt;/div&gt;" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
@@ -114,6 +124,11 @@
               <mxPoint x="500" y="140" />
               <mxPoint x="700" y="140" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oJINNUdnDELqN7D2WPO-44" value="eth7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CiXPGSn55u4qK1HpeIrX-22">
+          <mxGeometry x="-0.1917" y="-3" relative="1" as="geometry">
+            <mxPoint x="-20" y="-33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CiXPGSn55u4qK1HpeIrX-23" value="List Access Point" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
