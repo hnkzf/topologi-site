@@ -114,7 +114,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vY0VlmN2Y2TSqZI0Rsdv" name="Rencana Nexa">
-    <mxGraphModel dx="940" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="627" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,7 +246,7 @@
             <mxRectangle width="210" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3nqPP8ZJr_dhp5hfkX3-47" value="DATE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : //2024" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;fontStyle=1;fontSize=10;align=left;" vertex="1" parent="r3nqPP8ZJr_dhp5hfkX3-44">
+        <mxCell id="r3nqPP8ZJr_dhp5hfkX3-47" value="DATE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 11/08/2024" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;fontStyle=1;fontSize=10;align=left;" vertex="1" parent="r3nqPP8ZJr_dhp5hfkX3-44">
           <mxGeometry x="370" width="140" height="20" as="geometry">
             <mxRectangle width="140" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -420,6 +420,9 @@
           <mxGeometry x="690" y="802" width="170" height="20" as="geometry">
             <mxRectangle width="71" height="20" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r3nqPP8ZJr_dhp5hfkX3-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
