@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9" pages="5">
   <diagram name="Existing" id="e-fuKcSdVF0rKe5jB_tD">
     <mxGraphModel dx="1127" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -790,6 +790,23 @@
         </mxCell>
         <mxCell id="1bg0e_7a10yvRM_Su8_r-4" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;direction=north;" vertex="1" parent="1">
           <mxGeometry x="564.5" y="185.25" width="10.5" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OYCByPU6tPETS3_Uojpr" name="Halaman-5">
+    <mxGraphModel dx="1097" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WzDD8ylWmBJYyZYWs9Ip-1" value="KENDALA yang DITEMUKAN dan SOLUSI dari NEXA&lt;div&gt;Site: HOTEL KIYANA PREMIERE BATANG&lt;/div&gt;&lt;div&gt;Tahun 2025&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="197" y="10" width="775" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WzDD8ylWmBJYyZYWs9Ip-2" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;Solusi yang Nexa Tawarkan:&lt;/b&gt;&lt;/div&gt;&amp;nbsp;- Penambahan 8 AP Ruijie 720L untuk kooridor kamat.&lt;div&gt;&amp;nbsp;- Penggantian 4 AP ruang meeting dari Ruijie 720L menjadi Ruijie 810L.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- AP bekas ruang meeting akan digunakan untuk penambahan tarikan AP di kooridor&amp;nbsp; kamar.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Menggeser beberapa AP yang sudah ada karena penempatan kurang optimal untuk &lt;i&gt;coverage&lt;/i&gt;&amp;nbsp;sinyal wifi.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Penambahan switch Ruijie NBS3100 8 Port POE di ruang server untuk menggantikan switch Hikvision.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Penambahan switch Ruijie NBS3100 24 Port POE di lantai 1, lantai 2, lantai 3&amp;nbsp; untuk menggantikan switch Hikvision.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="179.5" y="360" width="900.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WzDD8ylWmBJYyZYWs9Ip-3" value="&lt;b&gt;&amp;nbsp;Kendala yang Ditemukan:&lt;/b&gt;&lt;div&gt;&amp;nbsp;- Coverage sinyal wifi tidak sesuai standar, karena jumlah &lt;i&gt;AccessPoint&amp;nbsp; &lt;/i&gt;yang tidak cukup untuk mencakup&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;seluruh kamar hotel.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Seringnya kendala di lantai 2 walaupun sudah lebih banyak &lt;i&gt;AccessPoint, &lt;/i&gt;karena penggunaan switch&lt;/div&gt;&lt;div&gt;&amp;nbsp;hikvision yang tidak sesuai fungsinya. Fungsi utamanya untuk kamera CCTV yang penggunaan daya&lt;/div&gt;&lt;div&gt;&amp;nbsp;dan data tidak banyak. Tapi karena digunakan untuk perangkat Wifi jadi hasil yang di dapat kurang&lt;/div&gt;&lt;div&gt;&amp;nbsp;maksimal, keterbatasan perangkat tersebut&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="179" y="120" width="810" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
