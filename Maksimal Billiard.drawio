@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Page-1" id="RcM-BARpL1GyZL29gmBR">
-    <mxGraphModel>
+    <mxGraphModel dx="658" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BevosnqfY1JBNrieOy5a-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="399" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-8" value="Kasir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-9" value="Office" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-10" value="Survey WIFI Site Maksimal&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 4 Titik AP Publik&lt;/div&gt;&lt;div&gt;2. 1 Titik AP Office&lt;/div&gt;&lt;div&gt;3. 1 Titik Kabel LAN Kasir&lt;/div&gt;&lt;div&gt;4. 1 Switch POE di server&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-11" value="Semarang, 3 September 2025&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bapak Untung Prawiro&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BevosnqfY1JBNrieOy5a-12" value="Tim Survey Nexa&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Henokh Zoe Faith&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="170" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
