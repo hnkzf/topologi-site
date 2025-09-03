@@ -10,16 +10,16 @@
         <mxCell id="BevosnqfY1JBNrieOy5a-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="BevosnqfY1JBNrieOy5a-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="BevosnqfY1JBNrieOy5a-4" value="810" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="130" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BevosnqfY1JBNrieOy5a-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="BevosnqfY1JBNrieOy5a-5" value="810" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BevosnqfY1JBNrieOy5a-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="BevosnqfY1JBNrieOy5a-6" value="810" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="399" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BevosnqfY1JBNrieOy5a-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="BevosnqfY1JBNrieOy5a-7" value="810" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BevosnqfY1JBNrieOy5a-8" value="Kasir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="BevosnqfY1JBNrieOy5a-12" value="Tim Survey Nexa&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Henokh Zoe Faith&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="210" width="170" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="BevosnqfY1JBNrieOy5a-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="BevosnqfY1JBNrieOy5a-13" value="EW1200" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="190" y="495" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
