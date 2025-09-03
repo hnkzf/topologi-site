@@ -14,7 +14,7 @@
           <mxGeometry x="310" y="130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BevosnqfY1JBNrieOy5a-5" value="810" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="30" height="30" as="geometry" />
+          <mxGeometry x="170" y="260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BevosnqfY1JBNrieOy5a-6" value="810" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="399" width="30" height="30" as="geometry" />
@@ -22,8 +22,8 @@
         <mxCell id="BevosnqfY1JBNrieOy5a-7" value="810" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BevosnqfY1JBNrieOy5a-8" value="Kasir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="80" width="50" height="20" as="geometry" />
+        <mxCell id="BevosnqfY1JBNrieOy5a-8" value="Kasir" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BevosnqfY1JBNrieOy5a-9" value="Office" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="90" height="50" as="geometry" />
