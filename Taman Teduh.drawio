@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Halaman-1" id="2HMyaIo9n5m-tnFXt0Kg">
-    <mxGraphModel dx="792" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -384,7 +384,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKeQuaYTnxcLNfVgUXho-104" value="vlan1: 192.168.50.0/24&lt;div&gt;vlan10: 192.168.10.0/24&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;[SSID Public]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#DFDFDF;" vertex="1" parent="1">
-          <mxGeometry x="930" y="170" width="140" height="40" as="geometry" />
+          <mxGeometry x="933.3" y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QKeQuaYTnxcLNfVgUXho-106" value="All Port Bridge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="140" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
