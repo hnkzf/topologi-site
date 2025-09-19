@@ -387,7 +387,7 @@
           <mxGeometry x="933.3" y="170" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QKeQuaYTnxcLNfVgUXho-106" value="All Port Bridge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="140" width="90" height="30" as="geometry" />
+          <mxGeometry x="930" y="145" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
