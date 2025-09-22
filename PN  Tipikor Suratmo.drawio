@@ -4,8 +4,68 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cBQvk93QLrl2CCPmcQ1K-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-1" value="Hakim Adhoc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-2" value="Tipikor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-3" value="Transit Panitera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-4" value="Hakim Adhoc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-5" value="Transit Hakim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-6" value="arsip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-7" value="Hakim Adhoc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-8" value="Sidang Lt2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-9" value="Arsip Tipikor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-10" value="Panitera PHI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-11" value="Cakra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-12" value="Tirta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-13" value="Chandra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-20" value="Resepsionis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dwwiyGuOX5f8FYx5m3xg-21" value="Box" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
