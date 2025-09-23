@@ -121,9 +121,6 @@
         <mxCell id="c6YKjnEwWRtL6LQTd_iY-29" value="Ruang" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="360" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c6YKjnEwWRtL6LQTd_iY-30" value="Box&lt;div&gt;sw8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="450" y="360" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="q0Qdv1PnBnxFrChq-dZ_-2" value="LAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="30" height="20" as="geometry" />
         </mxCell>
