@@ -192,7 +192,7 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-2" value="Router Apartemen" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=light-dark(#000000,#000000);" parent="EXce6v0WHQSd5u-Rdd7I-36" vertex="1">
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-2" value="Router BOH&lt;div&gt;Apartemen&lt;/div&gt;" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=light-dark(#000000,#000000);" parent="EXce6v0WHQSd5u-Rdd7I-36" vertex="1">
           <mxGeometry y="20" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b9TtZdQ1K0WwrwXwQuG9-3" value="AP Foodcourt&lt;div&gt;Dekat Tangga&lt;/div&gt;&lt;div&gt;Darurat&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" parent="EXce6v0WHQSd5u-Rdd7I-36" vertex="1">
