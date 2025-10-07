@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Halaman-1" id="di9zexqM3lKid5A350gE">
-    <mxGraphModel dx="1288" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="537" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,12 +15,12 @@
             <mxRectangle width="151" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mi89_uQSxwHirJgVy7Jg-4" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; PROJECT : SMA 4 SEMARANG&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;align=left;rowspan=2;colspan=1;fontSize=10;" vertex="1" parent="mi89_uQSxwHirJgVy7Jg-2">
+        <mxCell id="mi89_uQSxwHirJgVy7Jg-4" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; PROJECT : DIORIT VILLA &amp;amp; GLAMPING&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;align=left;rowspan=2;colspan=1;fontSize=10;" vertex="1" parent="mi89_uQSxwHirJgVy7Jg-2">
           <mxGeometry x="151" width="197" height="40" as="geometry">
             <mxRectangle width="197" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mi89_uQSxwHirJgVy7Jg-5" value="DATE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 4/8/2024" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;fontStyle=1;fontSize=10;align=left;" vertex="1" parent="mi89_uQSxwHirJgVy7Jg-2">
+        <mxCell id="mi89_uQSxwHirJgVy7Jg-5" value="DATE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 6/10/2025" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;fontStyle=1;fontSize=10;align=left;" vertex="1" parent="mi89_uQSxwHirJgVy7Jg-2">
           <mxGeometry x="348" width="132" height="20" as="geometry">
             <mxRectangle width="132" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -86,7 +86,7 @@
             <mxRectangle width="197" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mi89_uQSxwHirJgVy7Jg-19" value="LOCATION : SEMARANG" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;fontSize=10;fontStyle=1;align=left;" vertex="1" parent="mi89_uQSxwHirJgVy7Jg-16">
+        <mxCell id="mi89_uQSxwHirJgVy7Jg-19" value="LOCATION : WONOSOBO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;fontSize=10;fontStyle=1;align=left;" vertex="1" parent="mi89_uQSxwHirJgVy7Jg-16">
           <mxGeometry x="348" width="132" height="20" as="geometry">
             <mxRectangle width="132" height="20" as="alternateBounds" />
           </mxGeometry>
