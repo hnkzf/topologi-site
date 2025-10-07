@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="1DoBoviO6TXx1nHWv0JE">
+    <mxGraphModel dx="758" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9TtZdQ1K0WwrwXwQuG9-1" target="b9TtZdQ1K0WwrwXwQuG9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-16" value="eth16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b9TtZdQ1K0WwrwXwQuG9-6">
+          <mxGeometry x="-0.7565" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-17" value="eth1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b9TtZdQ1K0WwrwXwQuG9-6">
+          <mxGeometry x="0.6758" y="-6" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-1" value="Switch TP-Link 16&lt;div&gt;Panel B2&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="79" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9TtZdQ1K0WwrwXwQuG9-2" target="b9TtZdQ1K0WwrwXwQuG9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-2" value="Router Apartemen" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-3" value="AP Foodcourt&lt;div&gt;Dekat Tangga&lt;/div&gt;&lt;div&gt;Darurat&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="700" y="79" width="33.85" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9TtZdQ1K0WwrwXwQuG9-5" target="b9TtZdQ1K0WwrwXwQuG9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-19" value="eth3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b9TtZdQ1K0WwrwXwQuG9-7">
+          <mxGeometry x="0.614" y="-5" relative="1" as="geometry">
+            <mxPoint x="-2" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9TtZdQ1K0WwrwXwQuG9-5" target="b9TtZdQ1K0WwrwXwQuG9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-18" value="eth2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b9TtZdQ1K0WwrwXwQuG9-10">
+          <mxGeometry x="0.605" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9TtZdQ1K0WwrwXwQuG9-5" target="b9TtZdQ1K0WwrwXwQuG9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-20" value="eth4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b9TtZdQ1K0WwrwXwQuG9-11">
+          <mxGeometry x="-0.1962" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-5" value="Switch Ruijie 8-POE&lt;div&gt;Panel Ground&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="79" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-8" value="AP Foodcourt&lt;div&gt;Tengah Lorong&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="33.85" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-9" value="AP Foodcourt&lt;div&gt;Jauh Imigasi&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="33.85" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b9TtZdQ1K0WwrwXwQuG9-13" value="SSID Tentem Mall = Vlan900&lt;div&gt;SSID TV TFP (hidden) = Vlan200&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="494.4" y="60" width="190" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
