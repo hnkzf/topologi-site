@@ -1,0 +1,233 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Halaman-1" id="Mw-yg8ZVXgWlmnLBL7tn">
+    <mxGraphModel dx="805" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5B4XER01SiziGpCRieDg-51" value="Cafe Lantai 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="410" height="240.25" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-24" value="Ruang Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-20" value="Ruang Program" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="39.75" width="280" height="240.25" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5B4XER01SiziGpCRieDg-1" target="5B4XER01SiziGpCRieDg-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="80" />
+              <mxPoint x="200" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-5" value="eth2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-4">
+          <mxGeometry x="-0.7353" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5B4XER01SiziGpCRieDg-1" target="5B4XER01SiziGpCRieDg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-17" value="eth4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-16">
+          <mxGeometry x="-0.5531" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-1" value="Router Hex&lt;div&gt;Hexa&lt;/div&gt;" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="40" y="40.25" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-2" value="Switch TP-Link&lt;div&gt;8 GB - Server&lt;/div&gt;&lt;div&gt;Nexa&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="73.67" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-3" value="AP Cafe" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="414" width="33.52" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-6" value="Switch D-Link&lt;div&gt;16 Program&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+          <mxGeometry x="621.67" y="69.75" width="73.67" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5B4XER01SiziGpCRieDg-7" target="5B4XER01SiziGpCRieDg-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="480" />
+              <mxPoint x="590" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5B4XER01SiziGpCRieDg-7" target="5B4XER01SiziGpCRieDg-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="495" />
+              <mxPoint x="590" y="539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-7" value="Switch Ruijie&lt;div&gt;8 Cafe&lt;/div&gt;&lt;div&gt;Nexa&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+          <mxGeometry x="621.67" y="470" width="73.67" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-13" value="Switch TP-Link&lt;div&gt;8 Cafe&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+          <mxGeometry x="820" y="470" width="73.67" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-15" value="Switch TP-Link&lt;div&gt;8 FE - Server&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="39.75" width="73.67" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5B4XER01SiziGpCRieDg-25" target="5B4XER01SiziGpCRieDg-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="80" />
+              <mxPoint x="870" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-25" value="Router&lt;div&gt;Susan&lt;/div&gt;" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="925" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-28" value="10.124.124.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="905" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-29" value="192.168.10.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="96.83999999999997" y="90.25" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-30" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3.937;startSize=5.9055;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="120.25" as="sourcePoint" />
+            <mxPoint x="560" y="120.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-49" value="1 Kabel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E2E2E2;" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-30">
+          <mxGeometry x="0.03" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="316.84000000000003" y="70" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-32" value="pin 1236" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-31">
+          <mxGeometry x="-0.3316" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313.67" y="170.25" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-34" value="pin 4578" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-33">
+          <mxGeometry x="0.365" y="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-35" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3.937;startSize=5.9055;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="400" as="sourcePoint" />
+            <mxPoint x="720" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-50" value="1 Kabel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#CFCFCF;" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-35">
+          <mxGeometry y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5B4XER01SiziGpCRieDg-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-37" value="pin 4578" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-36">
+          <mxGeometry x="0.8857" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="5B4XER01SiziGpCRieDg-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-43" value="pin 4578" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-41">
+          <mxGeometry x="-0.7669" y="1" relative="1" as="geometry">
+            <mxPoint x="-66" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-39" value="sambungan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="5B4XER01SiziGpCRieDg-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="560" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-46" value="pin 1236" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-45">
+          <mxGeometry x="0.1467" y="-2" relative="1" as="geometry">
+            <mxPoint x="18" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="100" as="sourcePoint" />
+            <mxPoint x="720" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-48" value="pin 1236" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-47">
+          <mxGeometry x="-0.6613" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="400" as="sourcePoint" />
+            <mxPoint x="650" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-56" value="pin 4578" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-53">
+          <mxGeometry x="-0.4511" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="400" as="sourcePoint" />
+            <mxPoint x="850" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-57" value="pin 1236" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B4XER01SiziGpCRieDg-54">
+          <mxGeometry x="-0.6263" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-58" value="AP Depan" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="514" width="33.52" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5B4XER01SiziGpCRieDg-61" value="10.124.124.254" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="79.99999999999997" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
