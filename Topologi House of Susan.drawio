@@ -11,7 +11,7 @@
           <mxGeometry x="30" y="10" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="5B4XER01SiziGpCRieDg-20" value="Ruang Program" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="500" y="39.75" width="280" height="240.25" as="geometry" />
+          <mxGeometry x="500" y="39.75" width="260" height="240.25" as="geometry" />
         </mxCell>
         <mxCell id="5B4XER01SiziGpCRieDg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5B4XER01SiziGpCRieDg-1" target="5B4XER01SiziGpCRieDg-2" edge="1">
           <mxGeometry relative="1" as="geometry">
