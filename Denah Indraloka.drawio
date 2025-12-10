@@ -280,7 +280,7 @@
         <mxCell id="Cuik4orXMMUqWi2lk0QR-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MeetingRoom" vertex="1">
           <mxGeometry height="100" width="100" x="240" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="Cuik4orXMMUqWi2lk0QR-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="depan luar" vertex="1">
+        <mxCell id="Cuik4orXMMUqWi2lk0QR-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="depan luar" vertex="1">
           <mxGeometry height="100" width="570" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lobby" vertex="1">
