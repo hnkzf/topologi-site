@@ -110,7 +110,7 @@
           <mxGeometry height="20" width="40" x="520" y="520" as="geometry" />
         </mxCell>
         <mxCell id="Zv_dbjCEXuNGfI_ahAFW-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="210" y="280" as="geometry" />
+          <mxGeometry height="20" width="20" x="205" y="310" as="geometry" />
         </mxCell>
         <mxCell id="Zv_dbjCEXuNGfI_ahAFW-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="355" y="490" as="geometry" />
@@ -268,26 +268,26 @@
         <mxCell id="Cuik4orXMMUqWi2lk0QR-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="55" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="Cuik4orXMMUqWi2lk0QR-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shaft" vertex="1">
-          <mxGeometry height="100" width="70" x="540" y="220" as="geometry" />
+        <mxCell id="Cuik4orXMMUqWi2lk0QR-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shaft&lt;div&gt;server&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="70" x="540" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MeetingRoom" vertex="1">
-          <mxGeometry height="100" width="100" x="440" y="220" as="geometry" />
+          <mxGeometry height="140" width="100" x="440" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MeetingRoom" vertex="1">
-          <mxGeometry height="100" width="100" x="340" y="220" as="geometry" />
+          <mxGeometry height="140" width="100" x="340" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MeetingRoom" vertex="1">
-          <mxGeometry height="100" width="100" x="240" y="220" as="geometry" />
+          <mxGeometry height="140" width="100" x="240" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="depan luar" vertex="1">
           <mxGeometry height="100" width="570" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lobby" vertex="1">
-          <mxGeometry height="70" width="150" x="40" y="220" as="geometry" />
+          <mxGeometry height="90" width="150" x="40" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="office" vertex="1">
-          <mxGeometry height="30" width="150" x="40" y="290" as="geometry" />
+          <mxGeometry height="50" width="150" x="40" y="310" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="490" y="500" as="geometry" />
@@ -302,10 +302,10 @@
           <mxGeometry height="20" width="20" x="480" y="280" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="110" y="230" as="geometry" />
+          <mxGeometry height="20" width="20" x="110" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Cuik4orXMMUqWi2lk0QR-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="60" y="295" as="geometry" />
+          <mxGeometry height="20" width="20" x="65" y="325" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
