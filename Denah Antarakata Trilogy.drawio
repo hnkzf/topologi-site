@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9" pages="3">
   <diagram name="Tembalang" id="64CVXGOEFm7VD9XCSq1Z">
     <mxGraphModel dx="1288" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -260,7 +260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GQVQLOTNFA83NcHZnv_2" name="Ahmad Yani">
-    <mxGraphModel dx="1766" dy="1096" grid="1" gridSize="9.8425" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="840" grid="1" gridSize="9.8425" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -411,11 +411,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uxLEgQ1PYf9RxpAvufMT-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="30.33" width="30.33" x="614.35" y="319.48" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLEgQ1PYf9RxpAvufMT-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="30.33" width="30.33" x="472.4425" y="794.3625" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="am6rYHv_zAQdV3y9qBPp" name="Majapahit">
-    <mxGraphModel dx="1288" dy="1096" grid="1" gridSize="9.8425" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="764" grid="1" gridSize="9.8425" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,6 +569,12 @@
         </mxCell>
         <mxCell id="6lrywkBk12d7GIDXL_B5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3.937;fontSize=20;fontStyle=1;fillColor=none;" value="Kasir" vertex="1">
           <mxGeometry height="393.7" width="177.16" x="383.87" y="79.11" as="geometry" />
+        </mxCell>
+        <mxCell id="QbFwuJcPQfnXhbygzAV5-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Ruijie&lt;div&gt;810&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30.33" width="30.33" x="565.6899999999999" y="314.52" as="geometry" />
+        </mxCell>
+        <mxCell id="QbFwuJcPQfnXhbygzAV5-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Ruijie&lt;div&gt;810&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30.33" width="30.33" x="472.4525" y="1003.0424999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
