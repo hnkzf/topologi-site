@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7" pages="3">
   <diagram name="Tembalang" id="64CVXGOEFm7VD9XCSq1Z">
-    <mxGraphModel dx="1288" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,7 +486,7 @@
         <mxCell id="SZkjyIYmWHrQ-4IOsRg4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pintu&lt;div&gt;masuk&lt;/div&gt;" vertex="1">
           <mxGeometry height="29.53" width="39.65" x="246.06" y="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="6lrywkBk12d7GIDXL_B5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3.937;fontSize=20;fontStyle=1" value="Kasir" vertex="1">
+        <mxCell id="6lrywkBk12d7GIDXL_B5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3.937;fontSize=20;fontStyle=1;fillColor=none;" value="Kasir" vertex="1">
           <mxGeometry height="393.7" width="177.16" x="68.9" y="39.37" as="geometry" />
         </mxCell>
       </root>
