@@ -186,7 +186,7 @@
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-81" connectable="0" parent="LOaOuTI4AzTKk1jEshem-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="FO" vertex="1">
           <mxGeometry relative="1" x="-0.0161" y="-4" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-50" parent="1" style="image;points=[];aspect=fixed;html=1;align=left;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Industrial_Media_Converter.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" value="Converter FO" vertex="1">
@@ -208,7 +208,7 @@
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-82" connectable="0" parent="LOaOuTI4AzTKk1jEshem-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="FO" vertex="1">
           <mxGeometry relative="1" x="-0.0009" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-54" parent="1" style="image;points=[];aspect=fixed;html=1;align=left;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Industrial_Media_Converter.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" value="Converter FO" vertex="1">
@@ -286,7 +286,7 @@
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-83" connectable="0" parent="LOaOuTI4AzTKk1jEshem-77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="FO" vertex="1">
           <mxGeometry relative="1" x="-0.0161" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-98" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-75" parent="1" style="image;points=[];aspect=fixed;html=1;align=left;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Industrial_Media_Converter.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" value="Converter FO" vertex="1">
