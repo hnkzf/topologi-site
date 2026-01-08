@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram name="Halaman-1" id="tNC-CXbgIIDcNQBEd0oj">
-    <mxGraphModel dx="1426" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
         <mxCell id="LOaOuTI4AzTKk1jEshem-106" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Switch POE 24P" vertex="1">
+        <mxCell id="LOaOuTI4AzTKk1jEshem-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" value="Switch POE 24P" vertex="1">
           <mxGeometry height="40" width="60" x="224.9" y="140" as="geometry" />
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-94" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-92">
@@ -128,7 +128,7 @@
         <mxCell id="LOaOuTI4AzTKk1jEshem-80" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Switch POE 8P&lt;div&gt;Asrama&lt;/div&gt;" vertex="1">
+        <mxCell id="LOaOuTI4AzTKk1jEshem-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" value="Switch POE 8P&lt;div&gt;Asrama&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="60" x="680" y="560" as="geometry" />
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-32" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;labelBackgroundColor=#FFB366;" value="Asrama" vertex="1">
@@ -166,7 +166,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Switch POE 8P&lt;div&gt;Gd B&lt;/div&gt;" vertex="1">
+        <mxCell id="LOaOuTI4AzTKk1jEshem-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" value="Switch POE 8P&lt;div&gt;Gd B&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="60" x="960" y="560" as="geometry" />
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-45" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;labelBackgroundColor=#FFB366;" value="Rapat Gd B" vertex="1">
@@ -327,13 +327,13 @@
         <mxCell id="LOaOuTI4AzTKk1jEshem-102" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-101" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="Switch&amp;nbsp;&lt;div&gt;8Port&lt;br&gt;&lt;div&gt;Program&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="LOaOuTI4AzTKk1jEshem-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" value="Switch&amp;nbsp;&lt;div&gt;8Port&lt;br&gt;&lt;div&gt;Program&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="60" x="933.4" y="150" as="geometry" />
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-103" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-100" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="Switch&amp;nbsp;&lt;div&gt;8Port&lt;br&gt;&lt;div&gt;Penyelenggara&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="LOaOuTI4AzTKk1jEshem-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" value="Switch&amp;nbsp;&lt;div&gt;8Port&lt;br&gt;&lt;div&gt;Penyelenggara&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="90" x="1043.4" y="150" as="geometry" />
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-100" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;labelBackgroundColor=#66FF66;" value="Ruang&lt;div&gt;Penyelenggara&lt;/div&gt;" vertex="1">
