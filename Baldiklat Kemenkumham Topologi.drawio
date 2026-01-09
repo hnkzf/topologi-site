@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Halaman-1" id="tNC-CXbgIIDcNQBEd0oj">
-    <mxGraphModel dx="1426" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,22 +298,22 @@
         <mxCell id="LOaOuTI4AzTKk1jEshem-76" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Industrial_Media_Converter.svg;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" value="Converter FO&lt;div&gt;Gedung B&lt;/div&gt;" vertex="1">
           <mxGeometry height="57" width="30" x="559.9999999999999" y="551.5" as="geometry" />
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="GEDUNG A" vertex="1">
-          <mxGeometry height="30" width="110" x="303.3" y="40" as="geometry" />
+        <mxCell id="LOaOuTI4AzTKk1jEshem-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=5;fontSize=16;" value="GEDUNG A" vertex="1">
+          <mxGeometry height="30" width="110" x="50" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="GEDUNG&lt;div&gt;RUMAH&lt;/div&gt;&lt;div&gt;DINAS&lt;/div&gt;" vertex="1">
+        <mxCell id="LOaOuTI4AzTKk1jEshem-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=5;fontSize=16;" value="GEDUNG&lt;div&gt;RUMAH&lt;/div&gt;&lt;div&gt;DINAS&lt;/div&gt;" vertex="1">
           <mxGeometry height="68.5" width="110" x="43.3" y="521.5" as="geometry" />
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="GEDUNG B" vertex="1">
+        <mxCell id="LOaOuTI4AzTKk1jEshem-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=5;fontSize=16;" value="GEDUNG B" vertex="1">
           <mxGeometry height="30" width="110" x="785" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="GEDUNG&amp;nbsp;&lt;div&gt;SPORT&lt;/div&gt;&lt;div&gt;CENTRE&lt;/div&gt;" vertex="1">
+        <mxCell id="LOaOuTI4AzTKk1jEshem-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=5;fontSize=16;" value="GEDUNG&amp;nbsp;&lt;div&gt;SPORT&lt;/div&gt;&lt;div&gt;CENTRE&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="303.3" y="530" as="geometry" />
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-98" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-99" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-96">
+        <mxCell id="LOaOuTI4AzTKk1jEshem-99" edge="1" parent="1" source="cTNMnfDLHwJamm_KcnnX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-114" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-113" value="">
@@ -321,8 +321,8 @@
             <mxPoint x="856.7" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LOaOuTI4AzTKk1jEshem-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Outlet Tembok&lt;div&gt;Tiap Ruangan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="93.4" x="810" y="70" as="geometry" />
+        <mxCell id="LOaOuTI4AzTKk1jEshem-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Outlet Ruang&lt;div&gt;Rapat&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="93.4" x="793.3" y="70" as="geometry" />
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-102" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LOaOuTI4AzTKk1jEshem-101" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -367,7 +367,7 @@
           <mxGeometry height="54.6" width="36.6" x="730" y="411.2" as="geometry" />
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-113" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;labelBackgroundColor=#FFB366;" value="Ruang&lt;div&gt;Rapat&lt;/div&gt;&lt;div&gt;Gd A&lt;/div&gt;" vertex="1">
-          <mxGeometry height="54.6" width="36.6" x="838.4" y="260" as="geometry" />
+          <mxGeometry height="54.6" width="36.6" x="821.6999999999999" y="260" as="geometry" />
         </mxCell>
         <mxCell id="L6HZRpOkESL5_jKeWKpg-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=none;fillColor=#66FF66;" value="Penambahan AP" vertex="1">
           <mxGeometry height="40" width="83" x="118.7" y="1040" as="geometry" />
@@ -377,6 +377,24 @@
         </mxCell>
         <mxCell id="L6HZRpOkESL5_jKeWKpg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=none;fillColor=#66B2FF;" value="Aman / No Action" vertex="1">
           <mxGeometry height="40" width="83" x="118.69999999999999" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="cTNMnfDLHwJamm_KcnnX-3" edge="1" parent="1" source="LOaOuTI4AzTKk1jEshem-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cTNMnfDLHwJamm_KcnnX-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="903" y="90" as="sourcePoint" />
+            <mxPoint x="1088" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTNMnfDLHwJamm_KcnnX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Outlet Ruang&lt;div&gt;Program&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="93.4" x="916.7" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cTNMnfDLHwJamm_KcnnX-5" edge="1" parent="1" source="cTNMnfDLHwJamm_KcnnX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cTNMnfDLHwJamm_KcnnX-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="90" as="sourcePoint" />
+            <mxPoint x="1088" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTNMnfDLHwJamm_KcnnX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Outlet Ruang&lt;div&gt;Penyelenggara&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="93.4" x="1041" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
