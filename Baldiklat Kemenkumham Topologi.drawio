@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Halaman-1" id="tNC-CXbgIIDcNQBEd0oj">
-    <mxGraphModel dx="1426" dy="755" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4753" dy="2517" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,7 +186,7 @@
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-81" connectable="0" parent="LOaOuTI4AzTKk1jEshem-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="FO" vertex="1">
           <mxGeometry relative="1" x="-0.0161" y="-4" as="geometry">
-            <mxPoint x="4" y="-50" as="offset" />
+            <mxPoint x="4" y="-51" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-50" parent="1" style="image;points=[];aspect=fixed;html=1;align=left;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Industrial_Media_Converter.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" value="Converter FO" vertex="1">
@@ -351,7 +351,7 @@
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-109" connectable="0" parent="LOaOuTI4AzTKk1jEshem-108" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="FO" vertex="1">
           <mxGeometry relative="1" x="-0.1683" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LOaOuTI4AzTKk1jEshem-104" parent="1" style="image;points=[];aspect=fixed;html=1;align=left;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Industrial_Media_Converter.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" value="Converter FO" vertex="1">
