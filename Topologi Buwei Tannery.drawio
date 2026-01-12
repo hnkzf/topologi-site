@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Halaman-1" id="XKsQn0Ah2H458buH2V20">
-    <mxGraphModel dx="1056" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,6 +89,18 @@
         </mxCell>
         <mxCell id="8ZGZzU8TF369iqnMuCMx-6" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=middle;html=1;verticalAlign=middle;aspect=fixed;align=left;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#000000;fontSize=10;labelPosition=right;" value="Switch TP-Link&lt;div&gt;PC Office&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="50" x="590" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="JoDoslvTvRFVD76mPNN5-5" edge="1" parent="1" source="8ZGZzU8TF369iqnMuCMx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JoDoslvTvRFVD76mPNN5-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JoDoslvTvRFVD76mPNN5-6" edge="1" parent="1" source="8ZGZzU8TF369iqnMuCMx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JoDoslvTvRFVD76mPNN5-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="490" />
+              <mxPoint x="800" y="490" />
+              <mxPoint x="800" y="667" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8ZGZzU8TF369iqnMuCMx-8" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=middle;html=1;verticalAlign=middle;aspect=fixed;align=left;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#000000;fontSize=10;labelPosition=right;" value="Switch TP-Link&lt;div&gt;PC R Meeting&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="50" x="720" y="420" as="geometry" />
@@ -281,22 +293,22 @@
         <mxCell id="8ZGZzU8TF369iqnMuCMx-52" parent="1" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" value="CCTV" vertex="1">
           <mxGeometry height="40.02" width="53.36" x="1420" y="904.98" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGZzU8TF369iqnMuCMx-58" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="2 AP Asrama&lt;div&gt;Milik Client&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZGZzU8TF369iqnMuCMx-58" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="2 AP Ruijie 2200&lt;div&gt;Asrama&lt;div&gt;Milik Client&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="54.6" width="36.6" x="446.7" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGZzU8TF369iqnMuCMx-59" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="2 AP Asrama&lt;div&gt;Milik Nexa&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZGZzU8TF369iqnMuCMx-59" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="2 AP Ruijie 720L&lt;div&gt;Nexa&lt;/div&gt;" vertex="1">
           <mxGeometry height="54.6" width="36.6" x="446.7" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGZzU8TF369iqnMuCMx-62" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Marketing&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZGZzU8TF369iqnMuCMx-62" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Marketing&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nexa&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="54.6" width="36.6" x="90" y="417.7" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGZzU8TF369iqnMuCMx-64" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Cutting&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZGZzU8TF369iqnMuCMx-64" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Cutting&lt;/div&gt;&lt;div&gt;Nexa&lt;/div&gt;" vertex="1">
           <mxGeometry height="54.6" width="36.6" x="1056.7" y="255.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGZzU8TF369iqnMuCMx-66" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Cutting&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZGZzU8TF369iqnMuCMx-66" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Cutting -&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nexa&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="54.6" width="36.6" x="1130" y="449.95" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGZzU8TF369iqnMuCMx-68" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Polish&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZGZzU8TF369iqnMuCMx-68" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Polish - Nexa&lt;/div&gt;" vertex="1">
           <mxGeometry height="54.6" width="36.6" x="1130" y="779.97" as="geometry" />
         </mxCell>
         <mxCell id="8ZGZzU8TF369iqnMuCMx-72" parent="1" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" value="CCTV" vertex="1">
@@ -323,6 +335,18 @@
         </mxCell>
         <mxCell id="8ZGZzU8TF369iqnMuCMx-82" parent="1" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" value="PC" vertex="1">
           <mxGeometry height="45" width="60" x="1320" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="JoDoslvTvRFVD76mPNN5-2" edge="1" parent="1" source="JoDoslvTvRFVD76mPNN5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8ZGZzU8TF369iqnMuCMx-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JoDoslvTvRFVD76mPNN5-1" parent="1" style="fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" value="Modem Nexa" vertex="1">
+          <mxGeometry height="60" width="70.59" x="579.71" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JoDoslvTvRFVD76mPNN5-3" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="AP Ruijie 2200&lt;div&gt;Packing&lt;/div&gt;&lt;div&gt;Milik Client&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54.6" width="36.6" x="726.7" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="JoDoslvTvRFVD76mPNN5-4" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;" value="AP Ruijie 2200&lt;div&gt;Meeting&lt;/div&gt;&lt;div&gt;Milik Client&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54.6" width="36.6" x="726.7" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
