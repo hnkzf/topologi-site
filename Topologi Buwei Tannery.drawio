@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Halaman-1" id="XKsQn0Ah2H458buH2V20">
-    <mxGraphModel dx="1296" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,7 +302,7 @@
         <mxCell id="8ZGZzU8TF369iqnMuCMx-62" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;labelBackgroundColor=#66B2FF;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Marketing&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nexa&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="54.6" width="36.6" x="90" y="417.7" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGZzU8TF369iqnMuCMx-64" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;labelBackgroundColor=#66B2FF;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Cutting&lt;/div&gt;&lt;div&gt;Nexa&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZGZzU8TF369iqnMuCMx-64" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;labelBackgroundColor=#66B2FF;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Pewarnaan&lt;/div&gt;&lt;div&gt;Nexa&lt;/div&gt;" vertex="1">
           <mxGeometry height="54.6" width="36.6" x="1056.7" y="255.39999999999998" as="geometry" />
         </mxCell>
         <mxCell id="8ZGZzU8TF369iqnMuCMx-66" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;fontSize=10;labelBackgroundColor=#66B2FF;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AP Ruijie 720L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Cutting -&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nexa&lt;/span&gt;&lt;/div&gt;" vertex="1">
