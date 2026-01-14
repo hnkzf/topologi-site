@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Halaman-1" id="xgADkZr0cHQncJBg5uRr">
-    <mxGraphModel dx="1097" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,6 +339,12 @@
             <mxPoint x="698" y="736.1500000000002" as="sourcePoint" />
             <mxPoint x="747" y="736.1500000000002" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KiMsScXnSWyGc5zk8ZgC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=10;" value="192.168.123.205" vertex="1">
+          <mxGeometry height="30" width="100" x="1050" y="355.25" as="geometry" />
+        </mxCell>
+        <mxCell id="KiMsScXnSWyGc5zk8ZgC-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=10;" value="192.168.123.210" vertex="1">
+          <mxGeometry height="30" width="100" x="1050" y="442.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
