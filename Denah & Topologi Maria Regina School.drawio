@@ -536,7 +536,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LANTAI 4" id="9Co_M2XH361pPtiCssci">
-    <mxGraphModel dx="2593" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2194" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kST3mmT-fmBwW1aCh3Nh-0" />
         <mxCell id="kST3mmT-fmBwW1aCh3Nh-1" parent="kST3mmT-fmBwW1aCh3Nh-0" />
@@ -626,7 +626,7 @@
         <mxCell id="zBPJiw-rdyRkVV54N97W-2" parent="kST3mmT-fmBwW1aCh3Nh-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="AP810-L&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;= 6 pcs&lt;div&gt;SWITCH 8GT2SFP&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;= 1 pcs&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="174.1" x="520" y="960" as="geometry" />
         </mxCell>
-        <mxCell id="V50JxSJ17dov8aeyG19Y-0" parent="kST3mmT-fmBwW1aCh3Nh-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="LANTAI 3" vertex="1">
+        <mxCell id="V50JxSJ17dov8aeyG19Y-0" parent="kST3mmT-fmBwW1aCh3Nh-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="LANTAI 4" vertex="1">
           <mxGeometry height="30" width="153" x="750" y="40" as="geometry" />
         </mxCell>
       </root>
