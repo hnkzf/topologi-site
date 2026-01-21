@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CzcHXqLV45Y3QxH_s8Ar" name="LANTAI 1">
-    <mxGraphModel dx="1901" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,11 +338,26 @@
         <mxCell id="1AdtMerU8X1skMzw5vtD-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="LANTAI 1" vertex="1">
           <mxGeometry height="30" width="153" x="751" y="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZQMSiE3p5c7l8_8thPR7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="LEGEND" vertex="1">
+          <mxGeometry height="120" width="200" x="1000" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQMSiE3p5c7l8_8thPR7-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="1019.9960171779821" y="791.9960171779821" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQMSiE3p5c7l8_8thPR7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="SWITCH" vertex="1">
+          <mxGeometry height="20" width="50" x="1007.9960171779821" y="834.9960171779821" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQMSiE3p5c7l8_8thPR7-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RUIJIE AP 810L" vertex="1">
+          <mxGeometry height="30" width="100" x="1067" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQMSiE3p5c7l8_8thPR7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RUIJIE SWITCH&lt;div&gt;NBS3100-8GT2SFP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="113" x="1067" y="830" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="nhYtiLJE9m7Q1OD-Ig6N" name="LANTAI 2">
-    <mxGraphModel dx="1783" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,11 +450,26 @@
         <mxCell id="TXciTpt-sRdMWO1pXe7p-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="LANTAI 2" vertex="1">
           <mxGeometry height="30" width="153" x="751" y="40" as="geometry" />
         </mxCell>
+        <mxCell id="KiKh_AQtGzf8PQRQlCR_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="LEGEND" vertex="1">
+          <mxGeometry height="120" width="200" x="1000" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="KiKh_AQtGzf8PQRQlCR_-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="1019.9960171779821" y="991.9960171779821" as="geometry" />
+        </mxCell>
+        <mxCell id="KiKh_AQtGzf8PQRQlCR_-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="SWITCH" vertex="1">
+          <mxGeometry height="20" width="50" x="1007.9960171779821" y="1034.9960171779821" as="geometry" />
+        </mxCell>
+        <mxCell id="KiKh_AQtGzf8PQRQlCR_-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RUIJIE AP 810L" vertex="1">
+          <mxGeometry height="30" width="100" x="1067" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="KiKh_AQtGzf8PQRQlCR_-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RUIJIE SWITCH&lt;div&gt;NBS3100-8GT2SFP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="113" x="1067" y="1030" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="LANTAI 3" id="XtpYV-DAipKDUW93ZHxi">
-    <mxGraphModel dx="1358" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SCmGFZ6xvMgc_J2E1P9G-0" />
         <mxCell id="SCmGFZ6xvMgc_J2E1P9G-1" parent="SCmGFZ6xvMgc_J2E1P9G-0" />
@@ -532,11 +562,26 @@
         <mxCell id="TTMFRkNPElKK0XSNlQyk-0" parent="SCmGFZ6xvMgc_J2E1P9G-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="LANTAI 3" vertex="1">
           <mxGeometry height="30" width="153" x="751" y="40" as="geometry" />
         </mxCell>
+        <mxCell id="EDW0rc0YDkDydbgTt_jd-0" parent="SCmGFZ6xvMgc_J2E1P9G-1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="LEGEND" vertex="1">
+          <mxGeometry height="120" width="200" x="1000" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="EDW0rc0YDkDydbgTt_jd-1" parent="SCmGFZ6xvMgc_J2E1P9G-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="1019.9960171779821" y="991.9960171779821" as="geometry" />
+        </mxCell>
+        <mxCell id="EDW0rc0YDkDydbgTt_jd-2" parent="SCmGFZ6xvMgc_J2E1P9G-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="SWITCH" vertex="1">
+          <mxGeometry height="20" width="50" x="1007.9960171779821" y="1034.9960171779821" as="geometry" />
+        </mxCell>
+        <mxCell id="EDW0rc0YDkDydbgTt_jd-3" parent="SCmGFZ6xvMgc_J2E1P9G-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RUIJIE AP 810L" vertex="1">
+          <mxGeometry height="30" width="100" x="1067" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="EDW0rc0YDkDydbgTt_jd-4" parent="SCmGFZ6xvMgc_J2E1P9G-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RUIJIE SWITCH&lt;div&gt;NBS3100-8GT2SFP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="113" x="1067" y="1030" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="LANTAI 4" id="9Co_M2XH361pPtiCssci">
-    <mxGraphModel dx="1584" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kST3mmT-fmBwW1aCh3Nh-0" />
         <mxCell id="kST3mmT-fmBwW1aCh3Nh-1" parent="kST3mmT-fmBwW1aCh3Nh-0" />
@@ -628,6 +673,21 @@
         </mxCell>
         <mxCell id="V50JxSJ17dov8aeyG19Y-0" parent="kST3mmT-fmBwW1aCh3Nh-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="LANTAI 4" vertex="1">
           <mxGeometry height="30" width="153" x="750" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N5YqNI8YdwhpDSlfojqS-0" parent="kST3mmT-fmBwW1aCh3Nh-1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="LEGEND" vertex="1">
+          <mxGeometry height="120" width="200" x="1000" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="N5YqNI8YdwhpDSlfojqS-1" parent="kST3mmT-fmBwW1aCh3Nh-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="1019.9960171779821" y="991.9960171779821" as="geometry" />
+        </mxCell>
+        <mxCell id="N5YqNI8YdwhpDSlfojqS-2" parent="kST3mmT-fmBwW1aCh3Nh-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="SWITCH" vertex="1">
+          <mxGeometry height="20" width="50" x="1007.9960171779821" y="1034.9960171779821" as="geometry" />
+        </mxCell>
+        <mxCell id="N5YqNI8YdwhpDSlfojqS-3" parent="kST3mmT-fmBwW1aCh3Nh-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RUIJIE AP 810L" vertex="1">
+          <mxGeometry height="30" width="100" x="1067" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="N5YqNI8YdwhpDSlfojqS-4" parent="kST3mmT-fmBwW1aCh3Nh-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RUIJIE SWITCH&lt;div&gt;NBS3100-8GT2SFP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="113" x="1067" y="1030" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
