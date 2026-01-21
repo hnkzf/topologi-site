@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.3" pages="5">
   <diagram name="TOPOLOGI" id="cr4IIizuH6w-0z9b4mmk">
-    <mxGraphModel dx="1783" dy="944" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="755" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -536,7 +536,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LANTAI 4" id="9Co_M2XH361pPtiCssci">
-    <mxGraphModel dx="2194" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1584" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kST3mmT-fmBwW1aCh3Nh-0" />
         <mxCell id="kST3mmT-fmBwW1aCh3Nh-1" parent="kST3mmT-fmBwW1aCh3Nh-0" />
@@ -588,10 +588,10 @@
         <mxCell id="uJpIh5Yi5DZCThMuPZbP-35" parent="kST3mmT-fmBwW1aCh3Nh-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;" value="KOORIDOR" vertex="1">
           <mxGeometry height="43" width="359.98" x="420.40601717798216" y="492.2160171779821" as="geometry" />
         </mxCell>
-        <mxCell id="uJpIh5Yi5DZCThMuPZbP-36" parent="kST3mmT-fmBwW1aCh3Nh-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;" value="ADMIN" vertex="1">
+        <mxCell id="uJpIh5Yi5DZCThMuPZbP-36" parent="kST3mmT-fmBwW1aCh3Nh-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;" value="R GURU" vertex="1">
           <mxGeometry height="180" width="120" x="461.9960171779821" y="344.9960171779821" as="geometry" />
         </mxCell>
-        <mxCell id="uJpIh5Yi5DZCThMuPZbP-37" parent="kST3mmT-fmBwW1aCh3Nh-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;" value="ADMIN" vertex="1">
+        <mxCell id="uJpIh5Yi5DZCThMuPZbP-37" parent="kST3mmT-fmBwW1aCh3Nh-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;" value="LAB" vertex="1">
           <mxGeometry height="180" width="120" x="546.9960171779821" y="259.99601717798214" as="geometry" />
         </mxCell>
         <mxCell id="uJpIh5Yi5DZCThMuPZbP-38" parent="kST3mmT-fmBwW1aCh3Nh-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="E" vertex="1">
