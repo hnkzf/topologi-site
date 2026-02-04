@@ -1114,13 +1114,13 @@
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Drum" vertex="1">
           <mxGeometry height="30" width="30" x="305" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Filler" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Piano" vertex="1">
           <mxGeometry height="30" width="30" x="365" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="F" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Filler" vertex="1">
           <mxGeometry height="30" width="30" x="365" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="B" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Bass" vertex="1">
           <mxGeometry height="30" width="30" x="365" y="680" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Gitar" vertex="1">
@@ -1129,13 +1129,13 @@
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Drum" vertex="1">
           <mxGeometry height="30" width="30" x="365" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Bass" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Piano" vertex="1">
           <mxGeometry height="30" width="30" x="425" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="F" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Filler" vertex="1">
           <mxGeometry height="30" width="30" x="425" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="B" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Bass" vertex="1">
           <mxGeometry height="30" width="30" x="425" y="680" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Gitar" vertex="1">
@@ -1144,13 +1144,13 @@
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Drum" vertex="1">
           <mxGeometry height="30" width="30" x="425" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Gitar" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Piano" vertex="1">
           <mxGeometry height="30" width="30" x="485" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="F" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Filler" vertex="1">
           <mxGeometry height="30" width="30" x="485" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="B" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Bass" vertex="1">
           <mxGeometry height="30" width="30" x="485" y="680" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Gitar" vertex="1">
@@ -1159,13 +1159,13 @@
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Drum" vertex="1">
           <mxGeometry height="30" width="30" x="485" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Piano" vertex="1">
           <mxGeometry height="30" width="30" x="545" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="F" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Filler" vertex="1">
           <mxGeometry height="30" width="30" x="545" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="B" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Bass" vertex="1">
           <mxGeometry height="30" width="30" x="545" y="680" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Gitar" vertex="1">
@@ -1188,19 +1188,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="A" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Aux" vertex="1">
           <mxGeometry height="30" width="30" x="305" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="A" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Aux" vertex="1">
           <mxGeometry height="30" width="30" x="365" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="A" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Aux" vertex="1">
           <mxGeometry height="30" width="30" x="425" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="A" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Aux" vertex="1">
           <mxGeometry height="30" width="30" x="485" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="_i6-5VE8LWH4pZcvxCsE-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="A" vertex="1">
+        <mxCell id="_i6-5VE8LWH4pZcvxCsE-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="Aux" vertex="1">
           <mxGeometry height="30" width="30" x="545" y="920" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" value="M" vertex="1">
