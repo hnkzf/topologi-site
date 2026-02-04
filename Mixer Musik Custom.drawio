@@ -1044,31 +1044,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" value="PIANO" vertex="1">
-          <mxGeometry height="50" width="40" x="300" y="150" as="geometry" />
+          <mxGeometry height="50" width="40" x="300" y="190" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-12" edge="1" parent="1" source="_i6-5VE8LWH4pZcvxCsE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="1V4crMYyFQBXp4jaiISx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" value="FILLER" vertex="1">
-          <mxGeometry height="50" width="40" x="360" y="150" as="geometry" />
+          <mxGeometry height="50" width="40" x="360" y="190" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-13" edge="1" parent="1" source="_i6-5VE8LWH4pZcvxCsE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="1V4crMYyFQBXp4jaiISx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" value="BASS" vertex="1">
-          <mxGeometry height="50" width="40" x="420" y="150" as="geometry" />
+          <mxGeometry height="50" width="40" x="420" y="190" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-14" edge="1" parent="1" source="_i6-5VE8LWH4pZcvxCsE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="1V4crMYyFQBXp4jaiISx-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" value="GITAR" vertex="1">
-          <mxGeometry height="50" width="40" x="480" y="150" as="geometry" />
+          <mxGeometry height="50" width="40" x="480" y="190" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-15" edge="1" parent="1" source="_i6-5VE8LWH4pZcvxCsE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="1V4crMYyFQBXp4jaiISx-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" value="DRUM" vertex="1">
-          <mxGeometry height="50" width="40" x="540" y="150" as="geometry" />
+          <mxGeometry height="50" width="40" x="540" y="190" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-105" edge="1" parent="1" source="_i6-5VE8LWH4pZcvxCsE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="_i6-5VE8LWH4pZcvxCsE-98">
           <mxGeometry relative="1" as="geometry">
@@ -1178,7 +1178,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" value="MICS" vertex="1">
-          <mxGeometry height="50" width="40" x="240" y="150" as="geometry" />
+          <mxGeometry height="50" width="40" x="240" y="190" as="geometry" />
         </mxCell>
         <mxCell id="_i6-5VE8LWH4pZcvxCsE-110" edge="1" parent="1" source="_i6-5VE8LWH4pZcvxCsE-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="_i6-5VE8LWH4pZcvxCsE-98">
           <mxGeometry relative="1" as="geometry">
