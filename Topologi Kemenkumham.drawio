@@ -564,7 +564,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rnbbz6uYmr5FYVi2jDQG" name="v2">
-    <mxGraphModel dx="751" dy="397" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="487" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -781,10 +781,10 @@
         <mxCell id="OavRYmOVF2E2NjxHRmFP-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="95" width="5" x="240" y="685" as="geometry" />
         </mxCell>
-        <mxCell id="OavRYmOVF2E2NjxHRmFP-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#E6E6E6;" value="" vertex="1">
+        <mxCell id="OavRYmOVF2E2NjxHRmFP-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" value="" vertex="1">
           <mxGeometry height="5" width="140" x="245" y="690" as="geometry" />
         </mxCell>
-        <mxCell id="OavRYmOVF2E2NjxHRmFP-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="" vertex="1">
+        <mxCell id="OavRYmOVF2E2NjxHRmFP-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="5" width="140" x="245" y="765" as="geometry" />
         </mxCell>
         <mxCell id="OavRYmOVF2E2NjxHRmFP-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="Rack Gedung B" vertex="1">
@@ -964,10 +964,10 @@
         <mxCell id="PrRPHnWPuiZjzfggNxa--47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="50" width="5" x="240" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="PrRPHnWPuiZjzfggNxa--48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#E6E6E6;" value="" vertex="1">
+        <mxCell id="PrRPHnWPuiZjzfggNxa--48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" value="" vertex="1">
           <mxGeometry height="5" width="140" x="245" y="455" as="geometry" />
         </mxCell>
-        <mxCell id="PrRPHnWPuiZjzfggNxa--49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#E6E6E6;" value="" vertex="1">
+        <mxCell id="PrRPHnWPuiZjzfggNxa--49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=none;" value="" vertex="1">
           <mxGeometry height="5" width="140" x="245" y="490" as="geometry" />
         </mxCell>
         <mxCell id="PrRPHnWPuiZjzfggNxa--50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;verticalAlign=middle;fillColor=#E6E6E6;" value="CONVERTER" vertex="1">
@@ -1032,10 +1032,10 @@
         <mxCell id="PrRPHnWPuiZjzfggNxa--61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="50" width="5" x="240" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="PrRPHnWPuiZjzfggNxa--62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#E6E6E6;" value="" vertex="1">
+        <mxCell id="PrRPHnWPuiZjzfggNxa--62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" value="" vertex="1">
           <mxGeometry height="5" width="140" x="245" y="295" as="geometry" />
         </mxCell>
-        <mxCell id="PrRPHnWPuiZjzfggNxa--63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="" vertex="1">
+        <mxCell id="PrRPHnWPuiZjzfggNxa--63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="5" width="140" x="245" y="330" as="geometry" />
         </mxCell>
         <mxCell id="PrRPHnWPuiZjzfggNxa--64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;verticalAlign=middle;fillColor=#E6E6E6;" value="CONVERTER" vertex="1">
