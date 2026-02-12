@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.8" pages="2">
   <diagram name="Topology" id="6zfJ0Xady7gkOLasC7Au">
-    <mxGraphModel dx="318" dy="-1025" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="-90" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,9 +103,6 @@
         <mxCell id="ivDiY285OHwk4kJmb1vb-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=30;convertToSvg=0;fontColor=#CCCCCC;" value="LANTAI 2" vertex="1">
           <mxGeometry height="30" width="170" x="11" y="1650" as="geometry" />
         </mxCell>
-        <mxCell id="K5F8vD0pDzYBrJpJWh6m-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="120" width="100" x="235" y="1545" as="geometry" />
-        </mxCell>
         <mxCell id="ivDiY285OHwk4kJmb1vb-10" parent="1" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=middle;html=1;verticalAlign=middle;aspect=fixed;align=right;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=9;labelPosition=left;" value="Router" vertex="1">
           <mxGeometry height="30" width="30" x="295" y="1580" as="geometry" />
         </mxCell>
@@ -142,9 +139,6 @@
             <mxPoint x="310" y="1620" as="sourcePoint" />
             <mxPoint x="310" y="1641" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="K5F8vD0pDzYBrJpJWh6m-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="BOX Panel Ruang Server" vertex="1">
-          <mxGeometry height="30" width="140" x="235" y="1515" as="geometry" />
         </mxCell>
         <mxCell id="K5F8vD0pDzYBrJpJWh6m-7" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="Coffee&lt;div&gt;Shop&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="480" y="1770" as="geometry" />
@@ -286,7 +280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FloorPlan" id="lElx59bywDJ9SDUeHl4J">
-    <mxGraphModel dx="3002" dy="189" grid="1" gridSize="5" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="5" guides="0" tooltips="1" connect="0" arrows="0" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VjIf_zVOAC3ECBizZMfm-0" />
         <mxCell id="VjIf_zVOAC3ECBizZMfm-1" parent="VjIf_zVOAC3ECBizZMfm-0" />
