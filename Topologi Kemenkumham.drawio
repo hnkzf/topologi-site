@@ -564,7 +564,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rnbbz6uYmr5FYVi2jDQG" name="v2">
-    <mxGraphModel dx="951" dy="503" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="755" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1175,12 +1175,6 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="230" y="664" as="sourcePoint" />
             <mxPoint x="280" y="614" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M6nuBzNa6MgaIaJW9mvI-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="M6nuBzNa6MgaIaJW9mvI-15" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="331.0197435897437" y="900" as="sourcePoint" />
-            <mxPoint x="290" y="909" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M6nuBzNa6MgaIaJW9mvI-17" parent="1" style="fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=left;align=right;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=1;shape=mxgraph.networks.modem;fontSize=10;" value="Modem Nexa" vertex="1">
