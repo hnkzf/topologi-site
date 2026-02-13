@@ -280,7 +280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FloorPlan" id="lElx59bywDJ9SDUeHl4J">
-    <mxGraphModel dx="951" dy="-666" grid="1" gridSize="5" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="-648" grid="1" gridSize="5" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VjIf_zVOAC3ECBizZMfm-0" />
         <mxCell id="VjIf_zVOAC3ECBizZMfm-1" parent="VjIf_zVOAC3ECBizZMfm-0" />
@@ -335,7 +335,7 @@
         <mxCell id="VjIf_zVOAC3ECBizZMfm-32" parent="VjIf_zVOAC3ECBizZMfm-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="UNIT&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: ENTERPRISE PROJECT" vertex="1">
           <mxGeometry height="20" width="240" x="1391" y="2290" as="geometry" />
         </mxCell>
-        <mxCell id="VjIf_zVOAC3ECBizZMfm-33" parent="VjIf_zVOAC3ECBizZMfm-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="APPROVED BY&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: MUHAMMAD NOVAL" vertex="1">
+        <mxCell id="VjIf_zVOAC3ECBizZMfm-33" parent="VjIf_zVOAC3ECBizZMfm-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="APPROVED BY&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: MOHAMMAD NOVAL" vertex="1">
           <mxGeometry height="20" width="240" x="1391" y="2310" as="geometry" />
         </mxCell>
         <mxCell id="VjIf_zVOAC3ECBizZMfm-34" parent="VjIf_zVOAC3ECBizZMfm-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="CREATED BY&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: HENOKH ZOE FAITH" vertex="1">
@@ -656,6 +656,15 @@
             <mxPoint x="820" y="1955" as="sourcePoint" />
             <mxPoint x="734" y="1918" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aVfMyJI-jcAyGHp9ToQy-21" edge="1" parent="VjIf_zVOAC3ECBizZMfm-1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;strokeColor=#FF3333;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="990" y="2289" as="sourcePoint" />
+            <mxPoint x="1025" y="2289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aVfMyJI-jcAyGHp9ToQy-22" parent="VjIf_zVOAC3ECBizZMfm-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontStyle=1" value=": JALUR KABEL LAN" vertex="1">
+          <mxGeometry height="15" width="115" x="1030" y="2280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
