@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Halaman-1" id="iPpzt5IDAMq3EASlmsyF">
-    <mxGraphModel dx="1901" dy="1007" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="751" dy="397" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
         <mxCell id="0K7qeyKU_2nYwGml567d-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;convertToSvg=0;fontColor=#000000;" value="GEDUNG AYUB" vertex="1">
           <mxGeometry height="30" width="170" x="11" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="0K7qeyKU_2nYwGml567d-191" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" target="0K7qeyKU_2nYwGml567d-190">
+        <mxCell id="0K7qeyKU_2nYwGml567d-191" edge="1" parent="1" source="0K7qeyKU_2nYwGml567d-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" target="0K7qeyKU_2nYwGml567d-190">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="798" />
