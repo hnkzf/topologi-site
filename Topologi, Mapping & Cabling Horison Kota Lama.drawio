@@ -225,7 +225,7 @@
           <mxGeometry height="40" width="40" x="380" y="580" as="geometry" />
         </mxCell>
         <mxCell id="YoDzMtgwKH5sPIK0KgCG-91" parent="i05HSKS9wn83jz7hdQf7-1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="7 AP Kooridor" vertex="1">
-          <mxGeometry height="40" width="40" x="520" y="580" as="geometry" />
+          <mxGeometry height="40" width="40" x="500" y="580" as="geometry" />
         </mxCell>
         <mxCell id="YoDzMtgwKH5sPIK0KgCG-93" edge="1" parent="i05HSKS9wn83jz7hdQf7-1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -240,7 +240,7 @@
           <mxGeometry height="40" width="40" x="439" y="370" as="geometry" />
         </mxCell>
         <mxCell id="YoDzMtgwKH5sPIK0KgCG-98" parent="i05HSKS9wn83jz7hdQf7-1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="6 AP Kooridor" vertex="1">
-          <mxGeometry height="40" width="40" x="445" y="480" as="geometry" />
+          <mxGeometry height="40" width="40" x="440" y="480" as="geometry" />
         </mxCell>
         <mxCell id="YoDzMtgwKH5sPIK0KgCG-100" edge="1" parent="i05HSKS9wn83jz7hdQf7-1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
