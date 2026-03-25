@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Halaman-1" id="l1EaIhdLc3EYauVO0RhG">
-    <mxGraphModel dx="920" dy="487" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1135" pageHeight="835" math="0" shadow="0">
+    <mxGraphModel dx="1584" dy="839" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1135" pageHeight="835" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-5" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP Lantai 2" vertex="1">
-          <mxGeometry height="40" width="40" x="635" y="410" as="geometry" />
+          <mxGeometry height="40" width="40" x="635" y="450" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -26,43 +26,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-10" parent="1" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=middle;html=1;verticalAlign=middle;aspect=fixed;align=left;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=9;labelPosition=right;" value="&lt;div&gt;MIikrotik&lt;/div&gt;RB4011" vertex="1">
-          <mxGeometry height="40" width="40" x="260" y="384" as="geometry" />
+          <mxGeometry height="40" width="40" x="260" y="424" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-65" edge="1" parent="1" source="WSdR06LGZ89JkIVW_lEJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" target="WSdR06LGZ89JkIVW_lEJ-64" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="470" />
-              <mxPoint x="480" y="470" />
+              <mxPoint x="480" y="510" />
+              <mxPoint x="480" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-80" edge="1" parent="1" source="WSdR06LGZ89JkIVW_lEJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" target="WSdR06LGZ89JkIVW_lEJ-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="395" y="465" />
-              <mxPoint x="395" y="270" />
+              <mxPoint x="395" y="505" />
+              <mxPoint x="395" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-87" edge="1" parent="1" source="WSdR06LGZ89JkIVW_lEJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=2;" target="WSdR06LGZ89JkIVW_lEJ-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="460" />
-              <mxPoint x="390" y="110" />
+              <mxPoint x="390" y="500" />
+              <mxPoint x="390" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-11" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=9;labelPosition=center;" value="NBS5500-12XS" vertex="1">
-          <mxGeometry height="40" width="40" x="260" y="447" as="geometry" />
+          <mxGeometry height="40" width="40" x="260" y="487" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-59" edge="1" parent="1" source="WSdR06LGZ89JkIVW_lEJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" target="WSdR06LGZ89JkIVW_lEJ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-13" parent="1" style="fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=left;align=right;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=0.4;shape=mxgraph.networks.modem;fontSize=9;" value="" vertex="1">
-          <mxGeometry height="10" width="40" x="260" y="350" as="geometry" />
+          <mxGeometry height="10" width="40" x="260" y="390" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-17" parent="1" style="fontColor=#000000;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontSize=10;" value="Outlet LAN Lantai 2" vertex="1">
-          <mxGeometry height="29" width="40" x="715" y="420" as="geometry" />
+          <mxGeometry height="29" width="40" x="715" y="460" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="" vertex="1">
           <mxGeometry height="80" width="140" x="5" y="740" as="geometry" />
@@ -166,20 +166,20 @@
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-66" edge="1" parent="1" source="WSdR06LGZ89JkIVW_lEJ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WSdR06LGZ89JkIVW_lEJ-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="470" />
+              <mxPoint x="655" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-64" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=9;labelPosition=center;" value="NBS3200-24GT4XS" vertex="1">
-          <mxGeometry height="40" width="40" x="535" y="450" as="geometry" />
+          <mxGeometry height="40" width="40" x="535" y="490" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-67" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="735" y="470" />
+              <mxPoint x="735" y="510" />
             </Array>
-            <mxPoint x="635" y="470" as="sourcePoint" />
-            <mxPoint x="735" y="450" as="targetPoint" />
+            <mxPoint x="635" y="510" as="sourcePoint" />
+            <mxPoint x="735" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-72" edge="1" parent="1" source="WSdR06LGZ89JkIVW_lEJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WSdR06LGZ89JkIVW_lEJ-69">
@@ -210,7 +210,7 @@
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-73" edge="1" parent="1" source="WSdR06LGZ89JkIVW_lEJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" target="WSdR06LGZ89JkIVW_lEJ-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="475" />
+              <mxPoint x="390" y="515" />
               <mxPoint x="390" y="670" />
             </Array>
           </mxGeometry>
@@ -218,70 +218,70 @@
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-74" edge="1" parent="1" source="WSdR06LGZ89JkIVW_lEJ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WSdR06LGZ89JkIVW_lEJ-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="270" />
+              <mxPoint x="655" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-75" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=9;labelPosition=center;" value="NBS3200-24GT4XS" vertex="1">
-          <mxGeometry height="40" width="40" x="535" y="250" as="geometry" />
+          <mxGeometry height="40" width="40" x="535" y="290" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-76" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP Lantai 3" vertex="1">
-          <mxGeometry height="40" width="40" x="635" y="210" as="geometry" />
+          <mxGeometry height="40" width="40" x="635" y="250" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-77" parent="1" style="fontColor=#000000;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontSize=10;" value="Outlet LAN Lantai 3" vertex="1">
-          <mxGeometry height="29" width="40" x="715" y="220" as="geometry" />
+          <mxGeometry height="29" width="40" x="715" y="260" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-78" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="735" y="270" />
+              <mxPoint x="735" y="310" />
             </Array>
-            <mxPoint x="635" y="270" as="sourcePoint" />
-            <mxPoint x="735" y="250" as="targetPoint" />
+            <mxPoint x="635" y="310" as="sourcePoint" />
+            <mxPoint x="735" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-79" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1130" y="330" as="sourcePoint" />
-            <mxPoint x="5" y="330" as="targetPoint" />
+            <mxPoint x="1130" y="370" as="sourcePoint" />
+            <mxPoint x="5" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-81" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1130" y="170" as="sourcePoint" />
-            <mxPoint x="5" y="170" as="targetPoint" />
+            <mxPoint x="1130" y="210" as="sourcePoint" />
+            <mxPoint x="5" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-82" edge="1" parent="1" source="WSdR06LGZ89JkIVW_lEJ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WSdR06LGZ89JkIVW_lEJ-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="110" />
+              <mxPoint x="655" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-83" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=9;labelPosition=center;" value="NBS3200-24GT4XS" vertex="1">
-          <mxGeometry height="40" width="40" x="535" y="90" as="geometry" />
+          <mxGeometry height="40" width="40" x="535" y="130" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-84" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP Lantai 4" vertex="1">
-          <mxGeometry height="40" width="40" x="635" y="50" as="geometry" />
+          <mxGeometry height="40" width="40" x="635" y="90" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-85" parent="1" style="fontColor=#000000;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontSize=10;" value="Outlet LAN Lantai 4" vertex="1">
-          <mxGeometry height="29" width="40" x="715" y="60" as="geometry" />
+          <mxGeometry height="29" width="40" x="715" y="100" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-86" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="735" y="110" />
+              <mxPoint x="735" y="150" />
             </Array>
-            <mxPoint x="635" y="110" as="sourcePoint" />
-            <mxPoint x="735" y="90" as="targetPoint" />
+            <mxPoint x="635" y="150" as="sourcePoint" />
+            <mxPoint x="735" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=30;convertToSvg=0;fontColor=#CCCCCC;" value="LANTAI 3" vertex="1">
-          <mxGeometry height="30" width="170" x="6" y="290" as="geometry" />
+          <mxGeometry height="30" width="170" x="6" y="330" as="geometry" />
         </mxCell>
         <mxCell id="WSdR06LGZ89JkIVW_lEJ-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=30;convertToSvg=0;fontColor=#CCCCCC;" value="LANTAI 4" vertex="1">
-          <mxGeometry height="30" width="170" x="6" y="130" as="geometry" />
+          <mxGeometry height="30" width="170" x="6" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
