@@ -265,7 +265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_FfOj20vHDzSIQ16l9hM" name="Site 2">
-    <mxGraphModel dx="808" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,11 +401,14 @@
         <mxCell id="o5UKZAt0Twb7CB4iSsq4-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" value="box" vertex="1">
           <mxGeometry height="12" width="30" x="845" y="398" as="geometry" />
         </mxCell>
+        <mxCell id="KziIcsn8tCUDagfRoSNa-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dalam Gang" vertex="1">
+          <mxGeometry height="30" width="110" x="530" y="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="oMKROwXb3aczml12AM7h" name="Site 3">
-    <mxGraphModel dx="358" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -573,6 +576,9 @@
         </mxCell>
         <mxCell id="iVTzonrlQndmnYhKL-IG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" value="box" vertex="1">
           <mxGeometry height="12" width="30" x="730" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="YTsbtpIu03tMTukiFzDm-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pinggir Jalan Raya" vertex="1">
+          <mxGeometry height="30" width="110" x="510" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
