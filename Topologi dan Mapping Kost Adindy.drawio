@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Denah" id="CMHWx050TPRoSQ0u4dZU">
-    <mxGraphModel dx="1414" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1131" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
         <mxCell id="g6zNr-qvble1YwNPmMIU-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="30" x="280" y="77" as="geometry" />
         </mxCell>
-        <mxCell id="g6zNr-qvble1YwNPmMIU-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LANTAI 1" vertex="1">
+        <mxCell id="g6zNr-qvble1YwNPmMIU-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LANTAI 2" vertex="1">
           <mxGeometry height="30" width="60" x="170" y="17" as="geometry" />
         </mxCell>
         <mxCell id="g6zNr-qvble1YwNPmMIU-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -238,7 +238,7 @@
         <mxCell id="g6zNr-qvble1YwNPmMIU-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="30" x="700" y="287" as="geometry" />
         </mxCell>
-        <mxCell id="g6zNr-qvble1YwNPmMIU-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LANTAI 2" vertex="1">
+        <mxCell id="g6zNr-qvble1YwNPmMIU-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LANTAI 1" vertex="1">
           <mxGeometry height="30" width="60" x="573" y="207" as="geometry" />
         </mxCell>
         <mxCell id="g6zNr-qvble1YwNPmMIU-78" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="C" vertex="1">
