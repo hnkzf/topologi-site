@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Denah" id="CMHWx050TPRoSQ0u4dZU">
-    <mxGraphModel dx="1131" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,16 +275,22 @@
           <mxGeometry height="20" width="20" x="300" y="264" as="geometry" />
         </mxCell>
         <mxCell id="g6zNr-qvble1YwNPmMIU-89" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="C" vertex="1">
-          <mxGeometry height="20" width="20" x="90" y="245" as="geometry" />
+          <mxGeometry height="20" width="20" x="90" y="222" as="geometry" />
         </mxCell>
         <mxCell id="g6zNr-qvble1YwNPmMIU-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="C" vertex="1">
-          <mxGeometry height="20" width="20" x="90" y="111" as="geometry" />
+          <mxGeometry height="20" width="20" x="50" y="111" as="geometry" />
         </mxCell>
         <mxCell id="g6zNr-qvble1YwNPmMIU-92" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="C" vertex="1">
           <mxGeometry height="20" width="20" x="285" y="54" as="geometry" />
         </mxCell>
         <mxCell id="x6_-CxF5ccd_AVA3cIlE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" value="box" vertex="1">
           <mxGeometry height="12" width="20" x="580" y="377" as="geometry" />
+        </mxCell>
+        <mxCell id="x6_-CxF5ccd_AVA3cIlE-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="C" vertex="1">
+          <mxGeometry height="20" width="20" x="130" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="x6_-CxF5ccd_AVA3cIlE-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="C" vertex="1">
+          <mxGeometry height="20" width="20" x="90" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
