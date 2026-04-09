@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Denah" id="CMHWx050TPRoSQ0u4dZU">
-    <mxGraphModel dx="857" dy="458" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="629" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,7 +269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ie6hy0hgSW_zEJmhxyfb" name="Topologi">
-    <mxGraphModel dx="1571" dy="839" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1150" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="1007" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1150" pageHeight="760" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
