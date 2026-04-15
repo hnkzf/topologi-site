@@ -194,11 +194,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Topo Site 2" id="yCTvulbpx2QtskELHeWR">
-    <mxGraphModel dx="1131" dy="2804" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1050" pageHeight="550" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="2721" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1050" pageHeight="550" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FZWEAvtYwtMySUVTx_Kc-6" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP" vertex="1">
+        <mxCell id="FZWEAvtYwtMySUVTx_Kc-6" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP A" vertex="1">
           <mxGeometry height="40" width="40" x="540" y="-1880" as="geometry" />
         </mxCell>
         <mxCell id="FZWEAvtYwtMySUVTx_Kc-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
@@ -326,10 +326,10 @@
         <mxCell id="FZWEAvtYwtMySUVTx_Kc-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=30;convertToSvg=0;fontColor=#CCCCCC;" value="LANTAI 2" vertex="1">
           <mxGeometry height="30" width="170" x="11" y="-2030" as="geometry" />
         </mxCell>
-        <mxCell id="FZWEAvtYwtMySUVTx_Kc-62" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP" vertex="1">
+        <mxCell id="FZWEAvtYwtMySUVTx_Kc-62" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP B" vertex="1">
           <mxGeometry height="40" width="40" x="620" y="-1880" as="geometry" />
         </mxCell>
-        <mxCell id="FZWEAvtYwtMySUVTx_Kc-63" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP" vertex="1">
+        <mxCell id="FZWEAvtYwtMySUVTx_Kc-63" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP C" vertex="1">
           <mxGeometry height="40" width="40" x="700" y="-1880" as="geometry" />
         </mxCell>
         <mxCell id="FZWEAvtYwtMySUVTx_Kc-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FZWEAvtYwtMySUVTx_Kc-62">
@@ -350,7 +350,7 @@
             <mxPoint x="720" y="-1840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD01qJlNksvechYq-zTO-1" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP" vertex="1">
+        <mxCell id="aD01qJlNksvechYq-zTO-1" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP D" vertex="1">
           <mxGeometry height="40" width="40" x="780" y="-1880" as="geometry" />
         </mxCell>
         <mxCell id="aD01qJlNksvechYq-zTO-3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aD01qJlNksvechYq-zTO-1">
@@ -362,28 +362,21 @@
             <mxPoint x="799" y="-1840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD01qJlNksvechYq-zTO-15" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP" vertex="1">
-          <mxGeometry height="40" width="40" x="540" y="-2110" as="geometry" />
-        </mxCell>
-        <mxCell id="aD01qJlNksvechYq-zTO-16" edge="1" parent="1" source="aD01qJlNksvechYq-zTO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aD01qJlNksvechYq-zTO-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aD01qJlNksvechYq-zTO-16" edge="1" parent="1" source="aD01qJlNksvechYq-zTO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.0344827586209" y="-2070" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aD01qJlNksvechYq-zTO-17" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=9;labelPosition=center;" value="NBS3100&lt;div&gt;8GT2SFP&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="381" y="-2060" as="geometry" />
         </mxCell>
-        <mxCell id="aD01qJlNksvechYq-zTO-18" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP" vertex="1">
-          <mxGeometry height="40" width="40" x="620" y="-2110" as="geometry" />
-        </mxCell>
-        <mxCell id="aD01qJlNksvechYq-zTO-19" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP" vertex="1">
-          <mxGeometry height="40" width="40" x="700" y="-2110" as="geometry" />
-        </mxCell>
-        <mxCell id="aD01qJlNksvechYq-zTO-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aD01qJlNksvechYq-zTO-18">
+        <mxCell id="aD01qJlNksvechYq-zTO-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="640" y="-2040" />
             </Array>
             <mxPoint x="560" y="-2040" as="sourcePoint" />
-            <mxPoint x="639" y="-2070" as="targetPoint" />
+            <mxPoint x="640.0344827586209" y="-2070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aD01qJlNksvechYq-zTO-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
@@ -395,19 +388,16 @@
             <mxPoint x="720" y="-2070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD01qJlNksvechYq-zTO-22" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP" vertex="1">
-          <mxGeometry height="40" width="40" x="780" y="-2110" as="geometry" />
-        </mxCell>
-        <mxCell id="aD01qJlNksvechYq-zTO-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aD01qJlNksvechYq-zTO-22">
+        <mxCell id="aD01qJlNksvechYq-zTO-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="800" y="-2040" />
             </Array>
             <mxPoint x="720" y="-2040" as="sourcePoint" />
-            <mxPoint x="799" y="-2070" as="targetPoint" />
+            <mxPoint x="800.0344827586209" y="-2070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD01qJlNksvechYq-zTO-25" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP" vertex="1">
+        <mxCell id="aD01qJlNksvechYq-zTO-25" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP E" vertex="1">
           <mxGeometry height="40" width="40" x="860" y="-2110" as="geometry" />
         </mxCell>
         <mxCell id="aD01qJlNksvechYq-zTO-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aD01qJlNksvechYq-zTO-25">
@@ -418,6 +408,18 @@
             <mxPoint x="800" y="-2040" as="sourcePoint" />
             <mxPoint x="879" y="-2070" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SFYrgxHgecSPXm26Bnr1-1" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP A" vertex="1">
+          <mxGeometry height="40" width="40" x="540" y="-2110" as="geometry" />
+        </mxCell>
+        <mxCell id="SFYrgxHgecSPXm26Bnr1-2" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP B" vertex="1">
+          <mxGeometry height="40" width="40" x="620" y="-2110" as="geometry" />
+        </mxCell>
+        <mxCell id="SFYrgxHgecSPXm26Bnr1-3" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP C" vertex="1">
+          <mxGeometry height="40" width="40" x="700" y="-2110" as="geometry" />
+        </mxCell>
+        <mxCell id="SFYrgxHgecSPXm26Bnr1-4" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="AP D" vertex="1">
+          <mxGeometry height="40" width="40" x="780" y="-2110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
