@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
   <diagram name="TOPOLOGI" id="UGWHInUSrDfdijSffkwa">
-    <mxGraphModel dx="3672" dy="1883" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="3895" dy="2030" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -881,6 +881,20 @@
         </mxCell>
         <mxCell id="a1o3wcNSml-Nesd_H5iO-1" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;network2Icon=mxgraph.networks2.cctv;network2IconXOffset=-0.0002;network2IconYOffset=-0.0355;network2IconW=1.0004;network2IconH=0.7279;fontColor=#000000;fontSize=10;" value="T30" vertex="1">
           <mxGeometry height="25" width="34.36" x="-1540" y="-460" as="geometry" />
+        </mxCell>
+        <mxCell id="a1o3wcNSml-Nesd_H5iO-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" value="&lt;div&gt;NVR&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="-1860" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="a1o3wcNSml-Nesd_H5iO-3" edge="1" parent="1" source="SJ9V2X-f8XIrlREW1Ani-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a1o3wcNSml-Nesd_H5iO-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1840" y="-180" />
+            </Array>
+            <mxPoint x="-1840" y="-145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a1o3wcNSml-Nesd_H5iO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;div&gt;Waka Kurikulum&lt;/div&gt;" vertex="1">
+          <mxGeometry height="15" width="80" x="-1880" y="-140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
