@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sQDfIMBmiKx_NUDHdCZY" name="TOPOLOGI FO DISTRIBUSI">
-    <mxGraphModel dx="3254" dy="1362" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3144" dy="1298" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -684,8 +684,8 @@
         <mxCell id="3XcNmQQbAw1TLaebNeWd-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;div align=&quot;left&quot;&gt;T4:&lt;/div&gt;" vertex="1">
           <mxGeometry height="15" width="35" x="-1385" y="-680" as="geometry" />
         </mxCell>
-        <mxCell id="WkMLsmjN4NI24QyCOu2D-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="&lt;div&gt;OTB&lt;/div&gt;" vertex="1">
-          <mxGeometry height="15" width="38" x="-1660" y="-40" as="geometry" />
+        <mxCell id="WkMLsmjN4NI24QyCOu2D-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="&lt;div&gt;OTB&lt;/div&gt;" vertex="1">
+          <mxGeometry height="15" width="28" x="-1650" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="WkMLsmjN4NI24QyCOu2D-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="-1535" y="-70" as="geometry" />
