@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sQDfIMBmiKx_NUDHdCZY" name="TOPOLOGI FO DISTRIBUSI">
-    <mxGraphModel dx="3058" dy="1248" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3458" dy="1481" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -423,7 +423,7 @@
         <mxCell id="gLH9_7iUjztUbp7DKiuu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="PROJECT: MALL 23 PUBLIK AREA" vertex="1">
           <mxGeometry height="40" width="239" x="-2174" y="-95" as="geometry" />
         </mxCell>
-        <mxCell id="gLH9_7iUjztUbp7DKiuu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="SUBJECT: LAN &amp;amp; WIFI" vertex="1">
+        <mxCell id="gLH9_7iUjztUbp7DKiuu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="SUBJECT: DISTRIBUSI FIBER OPTIC" vertex="1">
           <mxGeometry height="40" width="239" x="-2174" y="-55" as="geometry" />
         </mxCell>
         <mxCell id="gLH9_7iUjztUbp7DKiuu-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="DATE&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: 26/05/2026" vertex="1">
