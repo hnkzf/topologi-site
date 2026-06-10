@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
   <diagram name="Control Room" id="UGWHInUSrDfdijSffkwa">
-    <mxGraphModel dx="5058" dy="2560" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4693" dy="2347" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="73mNnKsuWCQAqHzVKeAy-195" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-3314" y="-925" as="sourcePoint" />
-            <mxPoint x="-3314" y="-1390" as="targetPoint" />
+            <mxPoint x="-3314" y="-1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="73mNnKsuWCQAqHzVKeAy-196" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
@@ -146,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PV6CpDCE4Upfys3HZfMQ" name="Gedung Lama">
-    <mxGraphModel dx="4347" dy="2145" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4693" dy="2347" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
