@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
   <diagram name="Control Room" id="UGWHInUSrDfdijSffkwa">
-    <mxGraphModel dx="5187" dy="2636" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4118" dy="2011" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="73mNnKsuWCQAqHzVKeAy-297" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="APPROVED BY&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: MOHAMMAD NOVAL" vertex="1">
           <mxGeometry height="20" width="225" x="-2790" y="-855" as="geometry" />
         </mxCell>
-        <mxCell id="73mNnKsuWCQAqHzVKeAy-298" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="CREATED BY&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: HENOKH ZOE FAITH" vertex="1">
+        <mxCell id="73mNnKsuWCQAqHzVKeAy-298" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="CREATED BY&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: HENOKH ZOE FAITH" vertex="1">
           <mxGeometry height="20" width="225" x="-2790" y="-915" as="geometry" />
         </mxCell>
         <mxCell id="73mNnKsuWCQAqHzVKeAy-299" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
@@ -146,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PV6CpDCE4Upfys3HZfMQ" name="Gedung Lama">
-    <mxGraphModel dx="4467" dy="2215" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4083" dy="1991" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,7 +204,7 @@
         <mxCell id="Y3RAWHoR5gNJ3_twpHgY-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="APPROVED BY&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: MOHAMMAD NOVAL" vertex="1">
           <mxGeometry height="20" width="225" x="-2790" y="-855" as="geometry" />
         </mxCell>
-        <mxCell id="Y3RAWHoR5gNJ3_twpHgY-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="CREATED BY&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: HENOKH ZOE FAITH" vertex="1">
+        <mxCell id="Y3RAWHoR5gNJ3_twpHgY-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="CREATED BY&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: HENOKH ZOE FAITH" vertex="1">
           <mxGeometry height="20" width="225" x="-2790" y="-915" as="geometry" />
         </mxCell>
         <mxCell id="Y3RAWHoR5gNJ3_twpHgY-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
