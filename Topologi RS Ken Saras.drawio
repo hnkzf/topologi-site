@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="Halaman-1" id="UGWHInUSrDfdijSffkwa">
-    <mxGraphModel dx="3583" dy="1823" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="3150" dy="1537" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="va15wM0194zkxqngJ0DF-3" edge="1" parent="1" source="va15wM0194zkxqngJ0DF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="va15wM0194zkxqngJ0DF-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1839" y="-165" />
+              <mxPoint x="-1845" y="-165" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -123,7 +123,7 @@
           <mxGeometry height="40" width="40" x="-1979" y="-185" as="geometry" />
         </mxCell>
         <mxCell id="va15wM0194zkxqngJ0DF-2" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="Ruang Tunggu" vertex="1">
-          <mxGeometry height="40" width="40" x="-1859" y="-225" as="geometry" />
+          <mxGeometry height="40" width="40" x="-1864" y="-225" as="geometry" />
         </mxCell>
         <mxCell id="va15wM0194zkxqngJ0DF-4" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="L2-A" vertex="1">
           <mxGeometry height="40" width="40" x="-1865" y="-415" as="geometry" />
@@ -605,12 +605,12 @@
         <mxCell id="va15wM0194zkxqngJ0DF-124" edge="1" parent="1" source="va15wM0194zkxqngJ0DF-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="va15wM0194zkxqngJ0DF-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1860" y="-900" />
+              <mxPoint x="-1879" y="-900" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="va15wM0194zkxqngJ0DF-94" parent="1" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=middle;html=1;verticalAlign=middle;aspect=fixed;align=left;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=9;labelPosition=right;" value="&lt;div&gt;RB750Gr3&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="-1880" y="-960" as="geometry" />
+          <mxGeometry height="40" width="40" x="-1899" y="-960" as="geometry" />
         </mxCell>
         <mxCell id="va15wM0194zkxqngJ0DF-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=30;convertToSvg=0;fontColor=#CCCCCC;" value="LANTAI 7" vertex="1">
           <mxGeometry height="30" width="170" x="-2334" y="-875" as="geometry" />
@@ -652,7 +652,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="va15wM0194zkxqngJ0DF-104" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=10;labelPosition=center;" value="&lt;div&gt;NBS5500&lt;br&gt;12XS&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="-1960" y="-920" as="geometry" />
+          <mxGeometry height="40" width="40" x="-1979" y="-920" as="geometry" />
         </mxCell>
         <mxCell id="va15wM0194zkxqngJ0DF-122" edge="1" parent="1" source="va15wM0194zkxqngJ0DF-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF0000;" target="va15wM0194zkxqngJ0DF-6">
           <mxGeometry relative="1" as="geometry">
