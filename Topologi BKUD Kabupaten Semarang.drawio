@@ -311,7 +311,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gedung Perbendaharaan" id="daAAhzqStLgKOrDWZ9dh">
-    <mxGraphModel dx="3346" dy="1416" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3778" dy="1668" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="cdiikRhvM15gCgROcIS1-0" />
         <mxCell id="cdiikRhvM15gCgROcIS1-1" parent="cdiikRhvM15gCgROcIS1-0" />
@@ -355,7 +355,7 @@
           <mxGeometry height="20" width="160" x="-1980" y="-25" as="geometry" />
         </mxCell>
         <mxCell id="cdiikRhvM15gCgROcIS1-13" parent="cdiikRhvM15gCgROcIS1-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="LEGEND:" vertex="1">
-          <mxGeometry height="20" width="395" x="-1820" y="-85" as="geometry" />
+          <mxGeometry height="20" width="400" x="-1820" y="-85" as="geometry" />
         </mxCell>
         <mxCell id="cdiikRhvM15gCgROcIS1-14" parent="cdiikRhvM15gCgROcIS1-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="" vertex="1">
           <mxGeometry height="60" width="400" x="-1820" y="-65" as="geometry" />
@@ -580,7 +580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gedung Pelayanan" id="paofxYmQXpUmuhg6awgZ">
-    <mxGraphModel dx="3524" dy="1520" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2949" dy="1184" grid="1" gridSize="5" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ZD9BFlYMq5m6w71x29n9-0" />
         <mxCell id="ZD9BFlYMq5m6w71x29n9-1" parent="ZD9BFlYMq5m6w71x29n9-0" />
@@ -624,7 +624,7 @@
           <mxGeometry height="20" width="160" x="-1980" y="-25" as="geometry" />
         </mxCell>
         <mxCell id="ZD9BFlYMq5m6w71x29n9-13" parent="ZD9BFlYMq5m6w71x29n9-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="LEGEND:" vertex="1">
-          <mxGeometry height="20" width="395" x="-1820" y="-85" as="geometry" />
+          <mxGeometry height="20" width="400" x="-1820" y="-85" as="geometry" />
         </mxCell>
         <mxCell id="ZD9BFlYMq5m6w71x29n9-14" parent="ZD9BFlYMq5m6w71x29n9-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=10;spacingLeft=5;" value="" vertex="1">
           <mxGeometry height="60" width="400" x="-1820" y="-65" as="geometry" />
