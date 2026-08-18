@@ -156,11 +156,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t3fPmYUYXOeov5ZLw-7W-1" connectable="0" parent="9LVgwjgPsAWwvQwOGXKd-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="eth1" vertex="1">
-          <mxGeometry relative="1" x="0.633" y="-1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9LVgwjgPsAWwvQwOGXKd-5" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontSize=10;labelPosition=center;" value="Ruijie NBS3100 8GT2SFP" vertex="1">
           <mxGeometry height="40" width="40" x="-1960" y="-180" as="geometry" />
         </mxCell>
@@ -174,11 +169,6 @@
             </Array>
             <mxPoint x="-1820" y="-160" as="sourcePoint" />
             <mxPoint x="-1740" y="-180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3fPmYUYXOeov5ZLw-7W-2" connectable="0" parent="9LVgwjgPsAWwvQwOGXKd-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="eht2" vertex="1">
-          <mxGeometry relative="1" x="0.5819" y="-1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9LVgwjgPsAWwvQwOGXKd-10" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="&lt;div&gt;AP&lt;/div&gt;&lt;div&gt;R Entrepreneur&lt;/div&gt;" vertex="1">
@@ -196,11 +186,6 @@
             <mxPoint x="-1660" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t3fPmYUYXOeov5ZLw-7W-3" connectable="0" parent="9LVgwjgPsAWwvQwOGXKd-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="eth3" vertex="1">
-          <mxGeometry relative="1" x="0.6021" y="-1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9LVgwjgPsAWwvQwOGXKd-13" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="&lt;div&gt;AP&lt;/div&gt;&lt;div&gt;Office&lt;/div&gt;&lt;div&gt;Tengah&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="-1520" y="-240" as="geometry" />
         </mxCell>
@@ -213,11 +198,6 @@
             <mxPoint x="-1500" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t3fPmYUYXOeov5ZLw-7W-5" connectable="0" parent="9LVgwjgPsAWwvQwOGXKd-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="eth5" vertex="1">
-          <mxGeometry relative="1" x="0.6223" y="-1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9LVgwjgPsAWwvQwOGXKd-15" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=top;sketch=0;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#000000;fontColor=default;fontSize=10;labelBackgroundColor=none;labelPosition=center;" value="&lt;div&gt;AP&lt;/div&gt;&lt;div&gt;Office&lt;/div&gt;&lt;div&gt;Belakang&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="-1600" y="-240" as="geometry" />
         </mxCell>
@@ -228,11 +208,6 @@
             </Array>
             <mxPoint x="-1660" y="-160" as="sourcePoint" />
             <mxPoint x="-1580" y="-180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3fPmYUYXOeov5ZLw-7W-4" connectable="0" parent="9LVgwjgPsAWwvQwOGXKd-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="eth4" vertex="1">
-          <mxGeometry relative="1" x="0.6021" y="-2" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9LVgwjgPsAWwvQwOGXKd-42" edge="1" parent="1" source="9LVgwjgPsAWwvQwOGXKd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF0000;" target="9LVgwjgPsAWwvQwOGXKd-41">
@@ -360,11 +335,6 @@
             </Array>
             <mxPoint x="-1500" y="-160" as="sourcePoint" />
             <mxPoint x="-1420" y="-200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3fPmYUYXOeov5ZLw-7W-8" connectable="0" parent="t3fPmYUYXOeov5ZLw-7W-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="eth6" vertex="1">
-          <mxGeometry relative="1" x="0.6223" y="-1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
